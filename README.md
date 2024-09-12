@@ -1,2 +1,2 @@
-# Faithful-32x-Modded-1.12
-Faithful 32x textures for modded Minecraft.
+# Faithful 32x Modded
+Faithful 32x textures for modded Minecraft version 1.12.
