@@ -1,0 +1,39 @@
+# Items
+item.phoenix_sword.name=Épée du Phoenix
+item.phoenix_pickaxe.name=Pioche du Phoenix
+item.phoenix_axe.name=Hache du Phoenix
+item.phoenix_shovel.name=Pelle du Phoenix
+item.phoenix_cape.name=Cape du Phoenix
+item.sentry_shield.name=Bouclier de sentinelle
+item.invisibility_gem.name=Gemme d'invisibilité
+item.swetty_mask.name=Masque doux
+item.agility_boots.name=Bottes d'agilité
+item.power_gloves.name=Gants de puissance
+
+
+item.zanite_shield.name=Bouclier de Zanite
+item.gravitite_shield.name=Bouclier de Gravitite
+item.jeb_shield.name=Bouclier de Jeb
+item.jeb_hammer.name=Marteau de Jeb
+
+item.brown_moa_egg.name=Oeuf de Moa marron
+
+item.platinum_key.name=Clé de platine
+
+# Blocks
+tile.crystal_sapling.name=Crystal Sapling
+tile.gale_stone.name=Pierre de tempête
+tile.light_gale_stone.name=Pierre de tempête pâle
+tile.locked_gale_stone.name=Pierre de tempête verrouillée
+tile.locked_light_gale_stone.name=Pierre de tempête pâle verrouillée
+tile.songstone.name=Pierre de chant
+
+tile.gale_stairs.name=Escalier de tempête
+tile.gale_wall.name=Mur de tempête
+
+# Entities
+entity.zephyroo.name=Zéphyroo
+entity.king_aerwhale.name=Le roi des Baleines
+
+# GUI
+title.lost_aether.king_aerwhale.name=Le roi des Baleines
