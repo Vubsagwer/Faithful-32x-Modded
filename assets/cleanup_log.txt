@@ -1,0 +1,4 @@
+ERROR: No 'assets' folder found in output folder.
+
+✔  Done!  0 file(s) checked, 0 deleted.
+
